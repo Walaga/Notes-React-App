@@ -1,0 +1,28 @@
+.note{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 12px 15px 12px 12px;
+    background-color: white;
+    border: 0px solid grey;
+    border-radius: 10px;
+}
+
+.note_title{
+    padding: 1rem;
+    text-align: center;
+}
+.note_image{
+    width: 150px;
+    padding: 0 20px;
+
+}
+.note_body{
+    padding: 1.5rem;
+    line-height: 25px;
+    text-align: justify;
+}
+.notes_divider{
+    margin: 10 20px;
+}
+

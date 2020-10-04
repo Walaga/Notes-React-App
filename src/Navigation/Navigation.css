@@ -1,0 +1,22 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color: gold;
+    padding: 0rem;
+    align-items: center;
+}
+.navigation_menu{
+    display: flex;
+}
+.navigation_logo{
+    color: white;
+    
+}
+.navigation_menuItem{
+    margin-right: 10px;
+    color: white;
+    font-weight: 700px;
+    
+
+}
+
